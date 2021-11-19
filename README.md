@@ -7,4 +7,4 @@ Instructions -
   - A sample case is present
   - Simply run main.py with the proper libraries installed (pyTorch in this case)
 
-This video is largely inspired by - https://www.youtube.com/watch?v=U0s0f995w14
+This code is largely inspired by - https://www.youtube.com/watch?v=U0s0f995w14
